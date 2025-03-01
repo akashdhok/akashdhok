@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @akashdhok
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Full Stack Web Development
-
-
+"🚀 MERN Stack Developer | Building Scalable Web Apps | MongoDB • Express • React • Node.js | Open to Collaboration 🤝"
 
 
